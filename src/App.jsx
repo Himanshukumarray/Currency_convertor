@@ -80,8 +80,7 @@ function App() {
               amountDisable
             />
           </div>
-
-          {/* Glowing Convert Button */}
+          
           <button
             type="submit"
             className="w-full py-3 text-lg font-bold text-white bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg shadow-lg transition-all duration-300 transform hover:scale-105 hover:shadow-purple-500 hover:shadow-md active:scale-95"
